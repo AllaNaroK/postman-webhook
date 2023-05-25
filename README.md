@@ -80,7 +80,6 @@
 <br>
 
 ## Campos no Formato JSON
-
 <br>
 
     • SchemaVersion: Utilizado para informar a versão do formato JSON para que o Integrador 
@@ -112,3 +111,28 @@
         ▪ Supervisions: Total de supervisões registrados desde o último reinício da Central de Incêndio;
         ▪ Failures: Total de falhas registradas desde o último reinício da Central de Incêndio;
         ▪ MacAddr: Endereço MAC único do equipamento.
+<br>
+
+<details>
+
+<summary>Referências & Créditos</summary>
+
+### Documentações:
+  
+- Informações sobre as Centrais e seus Eventos, obtidas pelo documento [Manual de Integração GW](https://discord.com/channels/905461354033446912/930461681543426138/932708678954541107).
+
+- As sintaxes e keyworks podem ser revisadas aqui [RobotFramework RequestsLibrary](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html).
+
+- Este README foi criado utilizando do conhecimento repassado pelo [GitHub Docs](https://docs.github.com/).
+
+  
+### Agradecimentos:
+  
+Rafael Montes e Luiz Emídio, pelo conhecimento e dedicação no projeto.
+
+```python
+   *** Variables ***
+  ${CREATOR}  Allan_Narok
+```
+
+</details>
