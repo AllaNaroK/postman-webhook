@@ -128,7 +128,7 @@
   
 ### Agradecimentos:
   
-Rafael Montes e Luiz Emídio, pelo conhecimento e dedicação no projeto.
+- Rafael Montes e Luiz Emídio, pelo conhecimento e dedicação no projeto.
 
 ```python
    *** Variables ***
