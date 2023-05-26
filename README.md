@@ -1,4 +1,20 @@
-# Exposec - Automação Casos Teste (Postman)
+# Exposec - Automação Casos Teste
+<br>
+
+## Projeto
+<br>
+
+  ㅤㅤO principal objetivo é automatizar por completo o fluxo ideal de testes, isto é, perante requisições que simulam uma central física. Assim, minimizando as chances de
+  problemas na execução dos softwares.
+
+  - [**Exposec**](https://exposec.tmp.br/): Uma feira de nível internacional onde se é mostrado as mais recentes tecnologias, produtos e serviços para o setor de segurança.
+  Com tantas exposições de projetos e um público selecionado, se torna o local ideial para apresentações de tecnologias em seus últimos lançamentos.
+  
+  - [**Robot Framework**](https://robotframework.org/): Um framework de automação sendo capacitado em principal para testes, devido sua flexibilidade e possibilidade pra
+  integração de diversas bibliotecas entre si, como a <i>Request</i> e <i>Selenium Library</i> utilizadas neste projeto.
+  
+  - [**Defense IA**](https://www.intelbras.com/pt-br/software-de-seguranca-eletronica-defense-ia): Sistema gerencial de segurança eletrônica, compatível com diversos 
+  dispositivos da Intelbras de sua mesma área. Integrado em principal com as centrais interligadas e programadas dentro do projeto em si.
 <br>
 
 ## Eventos GW
@@ -133,6 +149,8 @@
 ```python
    *** Variables ***
   ${CREATOR}  Allan_Narok
+  ${PROJECT}  Defense_DA
+  ${FUNCTION} Quality_Assurance
 ```
 
 </details>
